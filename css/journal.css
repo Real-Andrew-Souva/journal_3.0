@@ -1,0 +1,89 @@
+body {
+    font-family: Verdana, Geneva, Arial, sans-serif;
+    font-size: small;
+}
+
+h1, h2 {
+    color: #c60;
+    border-bottom: thin dotted #888
+}
+
+h1 {
+    font-size: 220%;
+}
+
+h2 {
+    font-family: "Open Sans", Geneva, Arial, sans-serif;
+    font-size: 130%;
+    font-weight: normal;
+}
+
+p {
+    font-family: 'Roboto', Geneva, Arial, sans-serif;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+.index_title {
+    font-family: Pacifico, Geneva, Arial, sans-serif;
+}
+
+table {
+    margin-left: 20px;
+    margin-right: 20px;
+    border: thin solid black;
+    caption-side: bottom;
+    border-collapse: collapse;
+}
+td, th {
+    border: thin dotted gray;
+    padding: 5px;
+}
+caption {
+    font-style: italic;
+    padding-top: 8px;
+}
+
+.tableCenter {
+    text-align: center;
+}
+
+.tableRight {
+    text-align: right;
+}
+
+th {
+    background-color: #cc6600;
+}
+
+.cellcolor {
+    background-color: #fcba7a;
+}
+
+table table th {
+    background-color: white;
+}
+
+ul {
+    list-style: none;
+}
+
+#container {
+    width: 960px;
+    padding: 15px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+footer {
+    background-color: #fcba7a;
+    padding: 15px;
+    font-size: small;
+    font-family: 'Roboto', Geneva, Arial, sans-serif;
+}
+
+#Validator {
+    float: right;
+}
